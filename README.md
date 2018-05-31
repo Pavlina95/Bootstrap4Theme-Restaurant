@@ -4,4 +4,4 @@
 - Bootsrap 4 
 - HTML5
 - WOW
-- Animation.js
+- Animation.css
